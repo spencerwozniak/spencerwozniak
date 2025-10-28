@@ -5,7 +5,7 @@
      width="360" align="right"
      style="border-radius: 100%; margin-left: 20px;"/>
 
-### **Who I Am**
+### 👨🏻‍💻 **Who I Am**
 
 > “Whatever you do, do it all for the glory of God.” — 1 Corinthians 10:31
 
