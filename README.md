@@ -7,7 +7,7 @@
 
 ### **Who I Am**
 
-> “Whatever you do, do it all for the glory of God.” — *1 Corinthians 10:31*
+> “Whatever you do, do it all for the glory of God.” — 1 Corinthians 10:31
 
 - **Catholic Christian.**  
   My work is grounded in the conviction that truth is not invented but received, and that technology should serve the human person.
