@@ -83,19 +83,3 @@
 </p>
 
 ---
-
-### 🙏 **Why I Build**
-
-Technology is a form of stewardship.  
-Software can advance human flourishing—or diminish it.
-
-> “Unless the Lord builds the house, those who build it labor in vain.” — *Psalm 127:1*
-
-I create tools that respect the dignity of the human person:
-
-✔️ Beauty matters  
-✔️ Excellence honors God  
-✔️ People deserve better tools  
-✔️ Truth must guide innovation
-
-If you ever want to collaborate, reach out anytime at [hey@spencerwozniak.com](mailto:hey@spencerwozniak.com)
