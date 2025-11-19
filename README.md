@@ -13,7 +13,7 @@
   My work is grounded in the conviction that truth is not invented but received, and that technology should serve the human person.
 
 - **From clinic to code.**  
-  My background spans clinical care, academic research, and AI systems engineering. I’ve worked with patient data, EHR workflows, and real-world operational bottlenecks. That experience now shapes how I design technical architectures, integrations, and automation pipelines that reduce administrative load and strengthen organizational mission
+  My background spans clinical care, academic research, and AI systems engineering. I’ve worked with patient data, EHR workflows, and real-world operational bottlenecks. That experience now shapes how I design technical architectures, integrations, and automation pipelines that reduce administrative load and strengthen organizational mission.
 
 - **Founder & engineer.**  
   Today I run a B2B software studio called Serelora, where we custom web applications, automated tools and AI systems to help businesses save time, serve their customers, tell their story, and grow with purpose.
