@@ -10,13 +10,13 @@
 > “Behold the handmaid of the Lord; be it unto me according to thy word.” — Luke 1:38
 
 - **Catholic Christian.**  
-  Everything I build — every system, model, and line of code — is offered through the hands of Mary to Christ. My work is grounded in the conviction that technology should uphold the dignity of the human person — reflecting the goodness, truth, and beauty of the Holy Trinity.
+  Every system I build, model I design, and line of code I write is offered through the hands of Mary to Christ. My work is grounded in the conviction that technology should uphold the dignity of the human person, reflecting the goodness, truth, and beauty of the Holy Trinity.
 
 - **From clinic to code.**  
-  My background spans clinical care, academic research, and AI engineering. Working closely with patients and EHR systems, I realized how deeply people suffer from broken software and poor design. That experience now shapes how I design technical architectures, integrations, and automation pipelines that reduce administrative load and strengthen organizational mission.
+  My background spans clinical care, academic research, and AI engineering. Working closely with patients and EHR systems, I realized how deeply people suffer from broken software and poor design.
 
 - **Founder & engineer.**  
-  Today I run a B2B software studio called Serelora, where we custom web applications, automated tools and AI systems to help businesses save time, serve their customers, tell their story, and grow with purpose.
+  That experience ultimately pulled me out of the path of medical school and into software development, and I drove across the country to found Serelora, a B2B software studio dedicated to creating systems that empower people to spend less time fighting technology and more time serving others.
   <br/><br/>
   <a href="https://www.serelora.com" target="_blank">
   <img
