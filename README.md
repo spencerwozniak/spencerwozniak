@@ -10,7 +10,7 @@
 > “Behold the handmaid of the Lord; be it unto me according to thy word.” — Luke 1:38
 
 - **Catholic Christian.**  
-  Every system I build, model I design, and line of code I write is offered through the hands of Mary to Christ. My work is grounded in the conviction that technology should uphold the dignity of the human person, reflecting the goodness, truth, and beauty of the Holy Trinity.
+  I’m a Catholic Christian, a relentless explorer of ideas, and a builder at heart. Every system I build, model I design, and line of code I write is offered through the hands of Mary to Christ.
 
 - **From clinic to code.**  
   My background spans clinical care, academic research, and AI engineering. Working closely with patients and EHR systems, I realized how deeply people suffer from broken software and poor design.
