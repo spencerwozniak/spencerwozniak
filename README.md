@@ -16,7 +16,7 @@
   My background spans clinical care, academic research, and AI engineering. Working closely with patients and EHR systems, I realized how deeply people suffer from broken software and poor design.
 
 - **Founder & engineer.**  
-  That experience ultimately pulled me out of the path of medical school and into software development, and I drove across the country to found Serelora, a B2B software studio dedicated to creating systems that empower people to spend less time fighting technology and more time serving others.
+  That experience ultimately pulled me out of the path of medical school and into software development, and I drove across the country to found Serelora.
   <br/><br/>
   <a href="https://www.serelora.com" target="_blank">
   <img
