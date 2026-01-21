@@ -9,15 +9,12 @@
 
 > “Behold the handmaid of the Lord; be it unto me according to thy word.” — Luke 1:38
 
-- **Catholic Christian.**  
-  I’m a Catholic Christian, a relentless explorer of ideas, and a builder at heart. Every system I build, model I design, and line of code I write is offered through the hands of Mary to Christ.
+I'm a Catholic Christian, healthtech entrepreneur, and full-stack engineer focused on building reliable, explainable software for healthcare. My work sits at the intersection of clinical systems, data infrastructure, and applied AI, with a particular emphasis on EHRs, interoperability, and patient-centered design.
 
-- **From clinic to code.**  
-  My background spans clinical care, academic research, and AI engineering. Working closely with patients and EHR systems, I realized how deeply people suffer from broken software and poor design.
+My background spans clinical care, academic research, and software engineering. Through direct exposure to patients and healthcare workflows, it became clear that much of the suffering in modern healthcare is not clinical, but infrastructural.
 
-- **Founder & engineer.**  
-  That experience ultimately pulled me out of the path of medical school and into software development, and I drove across the country to found Serelora.
-  <br/><br/>
+That realization redirected my path from medical school into building technology full-time. I drove across the country to found Serelora, a startup building healthcare infrastructure that is trustworthy, explainable, and oriented toward human dignity.
+
   <a href="https://www.serelora.com" target="_blank">
   <img
     alt="Serelora Logo"
@@ -27,7 +24,7 @@
     style="margin-left: 20px;"
   />
 </a>
-<br/>
+<br/><br/>
 
 ### 🛠 **Tech Stack**
 
