@@ -1,8 +1,3 @@
-# **Spencer Wozniak**
-
-
-### 👨🏻‍💻 **Who I Am**
-
 > “Behold the handmaid of the Lord; be it unto me according to thy word.” — Luke 1:38
 
 I'm a Catholic Christian, healthtech entrepreneur, and full-stack engineer focused on building reliable, explainable software for healthcare. My work sits at the intersection of clinical systems, data infrastructure, and applied AI, with a particular emphasis on EHRs, interoperability, and patient-centered design.
@@ -20,9 +15,7 @@ That realization redirected my path from medical school into building technology
     style="margin-left: 20px;"
   />
 </a>
-<br/><br/>
-
-### 🛠 **Tech Stack**
+<br/><br/><br/>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -62,16 +55,7 @@ That realization redirected my path from medical school into building technology
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 
 
----
-
-### 🌍 **Connect With Me**
-
 <p align="left">
-<a href="mailto:hey@spencerwozniak.com"><img src="https://img.shields.io/badge/-hey@spencerwozniak.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.spencerwozniak.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-spencerwozniak.com-2C5282?style=flat"/></a>
-<a href="https://www.serelora.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-serelora.com-DAA520?style=flat"/></a>
 <a href="https://www.linkedin.com/in/spencerwozniak/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://scholar.google.com/citations?user=vBp7kzAAAAAJ&hl=en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
 </p>
-
----
